@@ -1,0 +1,15 @@
+# Ignore settings file containing sensitive information
+config/settings.py
+
+# Ignore environment variable file
+.env
+
+# Ignore logs directory
+logs/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment directory
+venv/
